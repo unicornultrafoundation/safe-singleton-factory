@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-singleton-factory",
+  "name": "@thuongth/safe-singleton-factory",
   "version": "1.0.15",
   "description": "Singleton factory used by Safe related contracts",
   "homepage": "https://github.com/safe-global/safe-singleton-factory/",
